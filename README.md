@@ -6,7 +6,7 @@
 - 👨‍💻 Checkout my profile [https://nandinibaggaqprofile.netlify.app/](https://nandinibaggaqprofile.netlify.app/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bagganandini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bagganandini" height="30" width="40" /></a>
+<a href="https://twitter.com/nandini__bagga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bagganandini" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nandini bagga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandini bagga" height="30" width="40" /></a>
 <a href="https://kaggle.com/nandinibagga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nandinibagga" height="30" width="40" /></a>
 <a href="https://instagram.com/nandini.bagga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandini.bagga" height="30" width="40" /></a>
