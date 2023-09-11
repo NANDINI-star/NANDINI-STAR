@@ -3,7 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandini-star&label=Profile%20views&color=0e75b6&style=flat" alt="nandini-star" /> </p>
 
 - 📫 How to reach me **nandinibaggapro@gmail.com**
-- 👨‍💻 Checkout my profile [https://nandinibaggaqprofile.netlify.app/](https://nandinibaggaqprofile.netlify.app/)
+- 📃 Resume - https://drive.google.com/file/d/1SY-ooHAr24GwBnSVS3VskvnUD9lrhcSo/view?usp=sharing
+- 👨‍💻 Checkout my profile: Please don't analyse my profile based on this: Made this ages ago [https://nandinibaggaqprofile.netlify.app/](https://nandinibaggaqprofile.netlify.app/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nandini__bagga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bagganandini" height="30" width="40" /></a>
